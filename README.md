@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=heysuhas&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐦 Latest Tweet
-![](<blockquote class="twitter-tweet"><p lang="en" dir="ltr">played the <a href="https://t.co/LqUvcMJ9MX">https://t.co/LqUvcMJ9MX</a> game, and here is my thought about it. Tried to keep it around programming languages! I&#39;ll try to make an anime-fied version of this. <a href="https://t.co/Y3KNJQIvOL">pic.twitter.com/Y3KNJQIvOL</a></p>&mdash; Suhas (@FuriousZeNi) <a href="https://twitter.com/FuriousZeNi/status/1628054243042295808?ref_src=twsrc%5Etfw">February 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">played the <a href="https://t.co/LqUvcMJ9MX">https://t.co/LqUvcMJ9MX</a> game, and here is my thought about it. Tried to keep it around programming languages! I&#39;ll try to make an anime-fied version of this. <a href="https://t.co/Y3KNJQIvOL">pic.twitter.com/Y3KNJQIvOL</a></p>&mdash; Suhas (@FuriousZeNi) <a href="https://twitter.com/FuriousZeNi/status/1628054243042295808?ref_src=twsrc%5Etfw">February 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
