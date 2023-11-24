@@ -1,4 +1,4 @@
-# 👨‍💻 [Your Name]
+# 👨‍💻 [Suhas Thammysetty]
 
 ### Hi there 👋
 
