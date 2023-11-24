@@ -11,6 +11,13 @@ I'm a passionate learner who loves to code and build things. I believe in the po
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
+![Axios](https://img.shields.io/badge/-Axios-333333?style=flat&logo=axios)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
 
 ## 🌱 I’m currently learning
 
