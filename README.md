@@ -29,7 +29,6 @@ I'm a passionate learner who loves to code and build things. I believe in the po
 
 ## 📫 Let's connect
 
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 - LinkedIn: [@tsuhas](https://www.linkedin.com/in/tsuhas)
 
 ## 🚀 My GitHub Stats
