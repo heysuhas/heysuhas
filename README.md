@@ -21,35 +21,26 @@ I'm a passionate learner who loves to code and build things. I believe in the po
 
 ## 🌱 I’m currently learning
 
-- [Data Structures and Algorithms in C](#)
-- [Data Structures and Algorithms in Python](#)
-- [Natural Language Processing (NLP)](#)
-- [Generative AI](#)
-- [Cognitive Neuroscience](#)
-
-## 💼 My projects
-
-- [Project 1](#) - Brief description
-- [Project 2](#) - Brief description
-- [Project 3](#) - Brief description
-<!-- Add more projects -->
+- [Data Structures and Algorithms in C](https://www.geeksforgeeks.org/courses/c-Programming-basic-to-advanced)
+- [Data Structures and Algorithms in Python](https://www.geeksforgeeks.org/python-data-structures-and-algorithms/)
+- [Natural Language Processing (NLP)](https://www.deeplearning.ai/resources/natural-language-processing/)
+- [Generative AI](https://www.nvidia.com/en-us/glossary/data-science/generative-ai/)
+- [Cognitive Neuroscience](https://e-catalogue.jhu.edu/course-descriptions/neuroscience/)
 
 ## 📫 Let's connect
 
 - Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 - LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/yourlinkedinprofile/)
-<!-- Add more social media links -->
 
 ## 🚀 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
-<!-- Replace "yourusername" with your GitHub username -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=heysuhas&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
 
 ## 🎉 Fun Facts
 
-- I love to [Hobby 1]
-- I'm a fan of [Favourite TV Show/Movie/Book]
-- Ask me about [Interesting Fact]
+- I love to sketch, journal, listen to songs & watch anime.
+- I like to spend my time on 3d as well.
+- Ask me about programming in general, designing stuff and maybe philosophical subjects :)
 
 Thanks for stopping by! 😊
 
