@@ -1,17 +1,16 @@
-<!-- Hey there! Welcome to my GitHub profile 👋 -->
-
 # 👨‍💻 [Your Name]
 
 ### Hi there 👋
 
-I'm a passionate [Your Role/Title] who loves to code and build things. I believe in the power of technology to make a positive impact on the world, and I'm always exploring new ways to create innovative solutions.
+I'm a passionate learner who loves to code and build things. I believe in the power of technology to make a positive impact on the world, and I'm always exploring new ways to create innovative solutions.
 
 ## 🔧 Technologies & Tools
 
-![Tech 1](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1)
-![Tech 2](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2)
-![Tech 3](https://img.shields.io/badge/-Tech3-333333?style=flat&logo=tech3)
-<!-- Add more technologies and tools as needed -->
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 ## 🌱 I’m currently learning
 
