@@ -21,10 +21,11 @@ I'm a passionate learner who loves to code and build things. I believe in the po
 
 ## 🌱 I’m currently learning
 
-- [Topic 1](#) 
-- [Topic 2](#)
-- [Topic 3](#)
-<!-- Add more learning topics -->
+- [Data Structures and Algorithms in C](#)
+- [Data Structures and Algorithms in Python](#)
+- [Natural Language Processing (NLP)](#)
+- [Generative AI](#)
+- [Cognitive Neuroscience](#)
 
 ## 💼 My projects
 
