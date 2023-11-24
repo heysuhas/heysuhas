@@ -1,4 +1,4 @@
-# 👨‍💻 [Suhas Thammysetty]
+# 👨‍💻 Suhas Thammysetty
 
 ### Hi there 👋
 
