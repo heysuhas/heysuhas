@@ -63,7 +63,7 @@
     </a>
   </div>
   <br>
-
+  <figure><embed src="https://wakatime.com/share/@heysuhas/debb39d4-691d-4e2e-a60e-b3da878db5bc.svg"></embed></figure>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=heysuhas&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
