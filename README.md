@@ -21,7 +21,7 @@
   <br>
   💬 Ask me anything from <a href="https://github.com/heysuhas">here</a>
   <br>
-  📫 Reach me at: <a href="mailto:hey.suhas@outlook.in">hey.suhas@outlook.in</a>
+  📫 Reach me at: <a href="mailto:hey.suhas@outlook.in">mail</a>
 </p>
 
 <hr>
