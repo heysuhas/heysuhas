@@ -17,8 +17,6 @@
   <br><br>
   🔬 CS Undergrad
   <br>
-  💻 I love writing code and learning about new technologies.
-  <br>
   📚 Currently exploring Data Structures and Algorithms & Web Dev
   <br>
   💬 Ask me anything from <a href="https://github.com/heysuhas">here</a>
