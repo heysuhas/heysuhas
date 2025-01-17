@@ -1,69 +1,50 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Suhas....;Nice+to+meet+you!&center=true&size=30">
+<h1 align="center">Hi, I'm Suhas 👋</h1>
+
+<p align="center">
+  🔬 CS Undergrad at SRM Institute of Science and Technology  
+  🌱 Currently exploring <strong>Data Structures & Algorithms</strong> and <strong>Web Development</strong>  
+  💡 Passionate about coding, problem-solving, and creating impactful user experiences  
+  📫 Reach me at: <a href="mailto:hey.suhas@outlook.in">hey.suhas@outlook.in</a>
+</p>
+
+---
+
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tsuhas/" title="LinkedIn Profile">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</h1>
-
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/tsuhas/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/profile/suhasftw" title="HackerRank Profile"><img width="22" src="images/hackerrank.svg"> HackerRank</a></code>
-  <code><a href="https://www.instagram.com/zenn1._/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
-
-<br>
-
-<p align="center">
-  Hi, I'm Suhas, a CS Enthusiast.
-  <br><br>
-  🔬 CS Undergrad
-  <br>
-  📚 Currently exploring Data Structures and Algorithms & Web Dev
-  <br>
-  💬 Ask me anything from <a href="https://github.com/heysuhas">here</a>
-  <br>
-  📫 Reach me at: <a href="mailto:hey.suhas@outlook.in">mail</a>
-</p>
-
-<hr>
-
-<h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
-
-<p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/probsolv.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="JavaScript" height="25" src="images/js.svg"></code>
-  <code><img title="Python" height="25" src="images/python.svg"></code>
-  <code><img title="Git" height="25" src="images/git.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="Figma" height="25" src="images/figma.svg"></code>
-  <code><img title="Adobe Photoshop" height="25" src="images/ps.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-</p>
-
-<hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-
-<p align = "center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-    <img width=390 src="https://streak-stats.demolab.com/?user=heysuhas&theme=react&border=61dafb&hide_border=true" alt="Suhas's Streak Stats"/>
-  </a> <br> <br>
-  <a href="https://github.com/denvercoder1/github-readme-stats" title="Go to Source">
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=heysuhas&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="Suhas's GitHub Stats"/>
+  <a href="https://www.hackerrank.com/profile/suhasftw" title="HackerRank Profile">
+    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+  </a>
+  <a href="https://www.instagram.com/zenn1._/" title="Instagram Profile">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://github.com/heysuhas" title="GitHub Profile">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
-<br>
+---
+
+<h2 align="center">🚀 Skills</h2>
 
 <p align="center">
-  
-  <img width=390 src="https://github-readme-stats.vercel.app/api/wakatime?username=heysuhas&theme=react&border=61dafb&hide_border=true"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=(+%20Stats+are+reflected+from+June+2024+);Powered+By+WakaTime;Nice+to+meet+you!&center=true&size=13&color=61dafb">
+  <img src="https://github-readme-stats.vercel.app/api?username=heysuhas&show_icons=true&theme=tokyonight&hide_border=true" alt="Suhas's GitHub Stats">
 </p>
-<hr>
