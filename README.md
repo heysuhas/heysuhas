@@ -1,13 +1,12 @@
 <h1 align="center">Hi, I'm Suhas 👋</h1>
 
 <p align="center">
-  🔬 CS Undergrad at SRM Institute of Science and Technology  
-  🌱 Currently exploring <strong>Data Structures & Algorithms</strong> and <strong>Web Development</strong>  
-  💡 Passionate about coding, problem-solving, and creating impactful user experiences  
-  📫 Reach me at: <a href="mailto:hey.suhas@outlook.in">hey.suhas@outlook.in</a>
+  CS Undergrad. 
 </p>
-
----
+<p align="center">
+  <em>Peace</em> or <em>Panic</em>.
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=heysuhas&label=Profile%20views&color=0e75b6&style=flat" alt="heysuhas" /> </p>
 
 <h2 align="center">🌐 Connect with Me</h2>
 
