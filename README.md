@@ -1,49 +1,86 @@
-<h1 align="center">Hi, I'm Suhas 👋</h1>
 
-<p align="center">
-  CS Undergrad. 
-</p>
-<p align="center">
-  <em>Peace</em> or <em>Panic</em>.
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=heysuhas&label=Profile%20views&color=0e75b6&style=flat" alt="heysuhas" /> </p>
+# Hello! 👋
+I am [Suhas](https://suhas-resume.vercel.app), a CSE Sophomore student at [SRMIST](https://srmist.edu.in). 
+---
 
-<h2 align="center">🌐 Connect with Me</h2>
+### Technologies & Languages
+> [!NOTE]
+> If you had a chance to see my projects, most of them are beginner-level and I tried to fill in my `curiosity` with them. I'm constantly learning to improve~
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tsuhas/" title="LinkedIn Profile">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.hackerrank.com/profile/suhasftw" title="HackerRank Profile">
-    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
-  </a>
-  <a href="https://www.instagram.com/zenn1._/" title="Instagram Profile">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://github.com/heysuhas" title="GitHub Profile">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+<div align='left'>
+<a href="https://github.com/heysuhas">
+            <img width="273" src="https://gitmystat.vercel.app/user?theme=gold&username=heysuhas&color=0xEBE9E1&accent=0xebe9e185&background=0x0C0C0C&tip=0xFF6265"></img>
+          </a>
+          <a href="https://github.com/heysuhas?tab=repositories">
+            <img src="https://gitmystat.vercel.app/top?username=heysuhas&theme=gold&layout=bar&color=0xEBE9E1&accent=0xebe9e185&background=0x0C0C0C&tip=0xFF6265"></img>
+          </a>
+</div>
+
+> I'm either of <em>Peace</em> or <em>Panic</em>
 
 ---
 
-<h2 align="center">🚀 Skills</h2>
+### Repositories
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-</p>
+> You can see some of my so-called `useful` beginner-level projects:
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/heysuhas/VirtualLabsRedesign">
+        <img src="https://gitmystat.vercel.app/repo?username=heysuhas&theme=gold&repo=VirtualLabsRedesign&color=0xEBE9E1&accent=0xebe9e185&background=0x0C0C0C&tip=0xFF6265">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/heysuhas/EcoRoute">
+        <img src="https://gitmystat.vercel.app/repo?username=heysuhas&repo=EcoRoute&theme=gold&color=0xEBE9E1&accent=0xebe9e185&background=0x0C0C0C&tip=0xFF6265">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heysuhas&show_icons=true&theme=tokyonight&hide_border=true" alt="Suhas's GitHub Stats">
-</p>
+> Some projects which I made for `fun` hehe~
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/heysuhas/spotify">
+        <img src="https://gitmystat.vercel.app/repo?username=heysuhas&repo=spotify&theme=gold&color=0xEBE9E1&accent=0xebe9e185&background=0x0C0C0C&tip=0xFF6265">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/heysuhas/sortingvisualizer">
+        <img src="https://gitmystat.vercel.app/repo?username=heysuhas&repo=sortingvisualizer&theme=gold&color=0xEBE9E1&accent=0xebe9e185&background=0x0C0C0C&tip=0xFF6265">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+---
+
+### Contact
+
+Want to get in touch? You can find me on various platforms:
+
+<div align="left">
+    <a href="mailto:suhas.100x@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://instagram.com/zenn1._"><img alt="instagram" src="https://img.shields.io/badge/Instagram-Follow-FF0069?style=for-the-badge"></a>
+    <a href="https://linkedin.com/in/tsuhas"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge"></a>
+    <a href="https://github.com/heysuhas"><img alt="github" src="https://img.shields.io/badge/Github-Contact-000000?style=for-the-badge"></a>
+</div>
+
+---
+
+> In the end, we are just stories<3
+
+
+Recents:
+
+
+[![me](https://gitmystat.vercel.app/recent?username=heysuhas&theme=gold&color=0xEBE9E1&accent=0xebe9e185&background=0x0C0C0C&tip=0xFF6265)](https://github.com/heysuhas)
+
