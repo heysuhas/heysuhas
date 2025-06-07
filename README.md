@@ -1,6 +1,6 @@
 
 # Hello! 👋
-I am [Suhas](https://suhas-resume.vercel.app), a CSE Sophomore student at [SRMIST](https://srmist.edu.in). 
+I am [Suhas](https://suhas-resume.vercel.app), A CS Enthusiast student. 
 ---
 
 ### Technologies & Languages
