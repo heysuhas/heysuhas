@@ -1,6 +1,6 @@
 
 # Hello! 👋
-I am [Suhas](https://suhas-resume.vercel.app), A CS Enthusiast student. 
+I am [Suhas](https://heysuhas.vercel.app), A CS Enthusiast student. 
 ---
 
 ### Technologies & Languages
