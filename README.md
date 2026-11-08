@@ -116,22 +116,16 @@ weakness: unfinished side-projects
 
 <br/>
 
-<!-- optional: animated contribution snake — uncomment the workflow in
-     .github/workflows/snake.yml (see note at bottom) once it's generated
-<div align="center">
-  <img src="https://raw.githubusercontent.com/heysuhas/heysuhas/output/snake-catppuccin.svg" width="90%"/>
-</div>
--->
+
 
 ## <img src="https://media.giphy.com/media/xUOxfjsW3wxUZWFbaU/giphy.gif" width="30"/> Reach Out
 
 <div align="center">
 
 <a href="mailto:suhas.100x@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-CBA6F7?style=for-the-badge&logo=gmail&logoColor=1E1E2E&labelColor=1E1E2E"></a>
-<a href="https://instagram.com/zenn1._"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-F5C2E7?style=for-the-badge&logo=instagram&logoColor=1E1E2E&labelColor=1E1E2E"></a>
 <a href="https://linkedin.com/in/tsuhas"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-89DCEB?style=for-the-badge&logo=linkedin&logoColor=1E1E2E&labelColor=1E1E2E"></a>
 <a href="https://github.com/heysuhas"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-A6E3A1?style=for-the-badge&logo=github&logoColor=1E1E2E&labelColor=1E1E2E"></a>
-<a href="https://heysuhas.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FAB387?style=for-the-badge&logo=vercel&logoColor=1E1E2E&labelColor=1E1E2E"></a>
+<a href="https://portfolio.heysuhas.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FAB387?style=for-the-badge&logo=vercel&logoColor=1E1E2E&labelColor=1E1E2E"></a>
 
 </div>
 
@@ -143,46 +137,3 @@ weakness: unfinished side-projects
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C2E7,50:CBA6F7,100:1E1E2E&height=150&section=footer&animation=twinkling" width="100%"/>
 
-<!-- ══════════════════════════════════════════════════════════════════
-NOTES FOR SUHAS (delete this comment block before publishing):
-
-1. Palette used — Catppuccin Mocha:
-   base #1E1E2E · text #CDD6F4 · mauve #CBA6F7 · pink #F5C2E7
-   red #F38BA8 · peach #FAB387 · yellow #F9E2AF · green #A6E3A1
-   teal #94E2D5 · sky #89DCEB · sapphire #74C7EC · lavender #B4BEFE
-
-2. gitmystat.vercel.app doesn't publish an official param list, so I kept
-   your working `color / accent / background / tip` overrides but swapped
-   every hex to the Mocha palette (0x-prefixed, as your original used).
-   If a widget renders with default colors instead, the param name may
-   differ slightly — open devtools on the widget once it's live and check.
-
-3. The animated contribution "snake" is commented out because it needs a
-   one-time GitHub Action in your repo (heysuhas/heysuhas) to generate the
-   SVG. If you want it, add this workflow at
-   .github/workflows/snake.yml:
-
-   name: snake
-   on:
-     schedule: [{cron: "0 */6 * * *"}]
-     workflow_dispatch: {}
-     push: {branches: ["main"]}
-   jobs:
-     snake:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: Platane/snk@v3
-           with:
-             github_user_name: heysuhas
-             outputs: |
-               dist/snake-catppuccin.svg?palette=github-dark&color_snake=CBA6F7
-         - uses: crazy-max/ghaction-github-pages@v4
-           with: {target_branch: output, build_dir: dist}
-           env: {GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}}
-
-   Then uncomment the <img> block above pointing at the `output` branch.
-
-4. Streak stats card pulls from github-readme-streak-stats.herokuapp.com —
-   if that instance is asleep/cold-started the first load may be slow;
-   it wakes up on its own.
-══════════════════════════════════════════════════════════════════ -->
